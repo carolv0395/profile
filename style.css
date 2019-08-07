@@ -44,6 +44,11 @@ a:hover {
   border-radius: 50%;
 }
 
+.container {
+    width: 800px;
+    margin: 40px auto;
+}
+
 @media (max-width: 960px) {
   .container {
     width: 700px;
@@ -54,6 +59,7 @@ a:hover {
 @media (max-width: 720px) {
   .container {
     width: 500px;
+    margin: 40px auto;
   }
 }
 
@@ -61,6 +67,7 @@ a:hover {
 @media (max-width: 540px) {
   .container {
     width: 300px;
+    margin: 40px auto;
   }
 }
 
